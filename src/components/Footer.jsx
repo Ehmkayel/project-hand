@@ -27,7 +27,9 @@ const Footer = () => {
             <div className="rounded-full overflow-hidden bg-gray-200 w-12 h-12 flex items-center justify-center">
               <Image src="/instagram.svg" alt="Instagram logo" width={35} height={35} />
             </div>
+            <Image src="/logo.svg" alt="logo" width={61} height={24}/>
           </div>
+    
         </div>
         </div>
         
