@@ -36,6 +36,8 @@ page.js: This is the main page component that I use to render the entire applica
 
 I downloaded all the assets and compress the ones with png format with TinyPng
 
+I deployed with Vercel
+
 
 ### To view 
 
@@ -46,7 +48,7 @@ I downloaded all the assets and compress the ones with png format with TinyPng
 ### Links
 
 - Solution URL: [code](https://github.com/Ehmkayel/project-hand)
-- Live Site URL: [Hand]()
+- Live Site URL: [Hand](https://project-hand.vercel.app/)
 
 ### Technologies Used
 
@@ -56,6 +58,7 @@ I downloaded all the assets and compress the ones with png format with TinyPng
 - React.js
 - Google Fonts
 - React Icons
+- Vercel
 
 ### Screenshots
 
@@ -79,6 +82,7 @@ I downloaded all the assets and compress the ones with png format with TinyPng
 [Next Js Documentation](https://nextjs.org/docs)
 [TinyPng](https://tinypng.com/)
 [React Icons](https://www.npmjs.com/package/react-icons)
+[Vercel](https://vercel.com/)
 
 
 
