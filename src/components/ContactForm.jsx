@@ -35,7 +35,7 @@ const ContactForm = () => {
                 <textarea id="message" value={message} onChange={(e) => setMessage(e.target.value)} required rows="5" cols="50" className="w-full lg:w-auto" />
             </div>
             <div className="flex justify-center ">
-                <a href type="submit" className="bg-black text-white py-5 px-8 rounded-lg lg:w-full">Send Proposal</a>
+                <a href type="submit" className="bg-black text-white py-5 px-8 rounded-lg lg:w-full text-center">Send Proposal</a>
             </div>
         </form>
 

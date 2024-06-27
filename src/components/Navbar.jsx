@@ -15,11 +15,11 @@ const Navbar = () => {
             <Image src="/logo.svg" alt="logo" width={61} height={24}/>
         </Link>
         <ul className="hidden lg:flex">
-            <li href="/" className="p-4 text-red-500">Home</li>
-            <li href="/" className="p-4 text-gray">About Us</li>
-            <li href="/" className="p-4 text-gray">Services</li>
-            <li href="/" className="p-4 text-gray">Blog</li>
-            <li href="/" className="p-4 text-gray">Contact Us</li>
+            <li href="/" className="p-4 text-red-500"><Link href="/">Home</Link></li>
+            <li href="/" className="p-4 text-gray"><Link href="/">About Us</Link></li>
+            <li href="/" className="p-4 text-gray"><Link href="/">Services</Link></li>
+            <li href="/" className="p-4 text-gray"><Link href="/">Blog</Link></li>
+            <li href="/" className="p-4 text-gray"><Link href="/">Contact Us</Link></li>
         </ul>
         <a href="/" className="hidden lg:flex bg-black text-white  hover:text-gray py-3 px-4 rounded-lg">Start a Project</a>
         <div onClick={handleNav} className="block lg:hidden">
