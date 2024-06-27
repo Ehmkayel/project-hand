@@ -1,4 +1,5 @@
 
+import Contact from "@/components/Contact";
 import Hero from "@/components/Hero";
 import Metrics from "@/components/Metrics";
 import Team from "@/components/Team";
@@ -13,7 +14,7 @@ export default function Home() {
       <Who/>
       <Team/>
       <Metrics/>
-      
+      <Contact/>
       
     </main>
   );

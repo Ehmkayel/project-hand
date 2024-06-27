@@ -1,36 +1,98 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Frontend Intern Challenge
 
-First, run the development server:
+This is the task given for a frontend Intern position
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Table of contents
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- [The Challenge](#the-challenge)
+- [Process](#process)
+- [Links](#links)
+- [Technologies used](#technologies-used)
+- [Screenshots](#screenshot)
+- [Resources](#resources)
+- [Get in Touch](#get-in-touch)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## The Challenge
 
-## Learn More
+The task is to replicate a figma design ensuring pixel perfect design
 
-To learn more about Next.js, take a look at the following resources:
+## Process
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+This is the processes I used for the application:
+I created different Components:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- Navbar/: The navigation bar component
+- Hero/: The hero section component
+- Who/: The "Who we are" section component
+- Metrics/: The metrics section component
+- Team/: The team section component
+- Contact/: The contact section Component
+- ContactForm/: The form component for the contact section
+- Footer/: The footer component
 
-## Deploy on Vercel
+page.js: This is the main page component that I use to render the entire application
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+I downloaded all the assets and compress the ones with png format with TinyPng
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+### To view 
+
+1. Run npm install to install dependencies
+2. Run npm run dev to start the development server
+
+
+### Links
+
+- Solution URL: [code](https://github.com/Ehmkayel/project-hand)
+- Live Site URL: [Hand]()
+
+### Technologies Used
+
+- Next.js
+- HTML
+- TailwindCss
+- React.js
+- Google Fonts
+- React Icons
+
+### Screenshots
+
+- Desktop View
+![Desktop](./src/Screenshot/desktop.png)
+
+- Large Laptop[1440px] view
+![Large Screen](./src/Screenshot/largeLaptop.png)
+
+- Laptop View
+![Laptop](./src/Screenshot/largeLaptop.png)
+
+- Tablet View
+![Tablet](./src/Screenshot/tablet.png)
+![Mobile Screen]()
+
+
+## Resources
+
+[TailwindCss Documentation](https://tailwindcss.com/docs/installation)
+[Next Js Documentation](https://nextjs.org/docs)
+[TinyPng](https://tinypng.com/)
+[React Icons](https://www.npmjs.com/package/react-icons)
+
+
+
+## Get in Touch
+
+You can reach out to me;
+ - Linkedin- [Morufat-Lamidi](https://linkedin.com/in/morufat-lamidi)
+ - Frontend Mentor - [@Ehmkayel](https://www.frontendmentor.io/profile/Ehmkayel)
+ - Twitter - [@kamalehmk](https://www.twitter.com/kamalehmk)
+ - Gmail- [Mail](mailto:lamidimorufat0@gmail.com);
+
+
+
+
+
+
+
