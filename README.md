@@ -73,7 +73,6 @@ I deployed with Vercel
 
 - Tablet View
 ![Tablet](./src/Screenshot/tablet.png)
-![Mobile Screen]()
 
 
 ## Resources
